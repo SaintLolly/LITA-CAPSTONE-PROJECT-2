@@ -52,3 +52,5 @@ This is where I include some line of codes, queries or some of the DAX expressio
 
 Q1.    ![image](https://github.com/user-attachments/assets/c63cd7be-4337-4741-99de-9116a9ceb048)
 
+![image](https://github.com/user-attachments/assets/b138a602-07ba-4247-87af-231dc6cd4788)
+
