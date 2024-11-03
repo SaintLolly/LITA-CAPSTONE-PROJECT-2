@@ -21,21 +21,21 @@ PROJECT OVERVIEW: In this project, I am tasked with performing an analysis on Cu
 ### DATA COLLECTED
 The dataset includes the following key columns:
 
-CustomerID: This is the number attached to each customer whon bought one product or the other
-Customer Name: This is the name of the customers that bought one item or the other
-Region: This is the different locations where the product are sold and bought
-Subscription Type: The three types of subscription includes: Basic, Standard and Premium
-Subscription Start/End: This is the date the customers started their subscription and when they canceled it
-Cancelled: This shows the customers that cancelled their subscription
-Revenue: The total monetary value generated from the sale
+- CustomerID: This is the number attached to each customer whon bought one product or the other
+- Customer Name: This is the name of the customers that bought one item or the other
+- Region: This is the different locations where the product are sold and bought
+- Subscription Type: The three types of subscription includes: Basic, Standard and Premium
+- Subscription Start/End: This is the date the customers started their subscription and when they canceled it
+- Cancelled: This shows the customers that cancelled their subscription
+- Revenue: The total monetary value generated from the sale
 
 ### DATA CLEANING AND PREPARATION
 In this initial phase of the Data cleaning and preparations, I performed the following actions:
 
-Data loading and Inspection
-Removing duplicates
-Cleaning and changing the data types
-Performing analysis to get the difference in duration
+- Data loading and Inspection
+- Removing duplicates
+- Cleaning and changing the data types
+- Performing analysis to get the difference in duration
 
 ### EXPLORATORY DATA ANALYSIS
 This involves the exploring of the data to answer some questions about the data. Such as:
