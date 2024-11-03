@@ -152,6 +152,9 @@ SELECT TOP 3 Region,Canceled
 FROM [dbo].[LITA_CUSTOMER.DATA]
 ```
 
+![image](https://github.com/user-attachments/assets/b54e8bde-177d-4748-a306-011f34a31b7b)
+
+
 Q8  Find the total number of active and canceled subscriptions.
 
 ```SQL
