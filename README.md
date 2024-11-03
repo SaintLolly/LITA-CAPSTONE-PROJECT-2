@@ -81,6 +81,9 @@ FROM [dbo].[LITA_CUSTOMER.DATA]
 GROUP BY Region
 ```
 
+![image](https://github.com/user-attachments/assets/000dbd35-6871-436d-b980-8e6b7fc18ef6)
+
+
 Q2 Find the most popular subscription type by the number of customers.
 
 ```SQL
