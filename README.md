@@ -55,3 +55,5 @@ Q1.    ![image](https://github.com/user-attachments/assets/c63cd7be-4337-4741-99
 ![image](https://github.com/user-attachments/assets/b138a602-07ba-4247-87af-231dc6cd4788)
 
 Q2.    ![image](https://github.com/user-attachments/assets/82bc5720-5c86-40ce-8459-3a1227c2dc70)
+
+![image](https://github.com/user-attachments/assets/4893b93d-b25c-428d-a967-3ef07da0f4bb)
