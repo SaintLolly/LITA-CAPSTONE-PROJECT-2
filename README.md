@@ -67,3 +67,5 @@ Q4.    ![image](https://github.com/user-attachments/assets/6ac3ffc8-d66d-4453-b2
 ![image](https://github.com/user-attachments/assets/9444837c-bf11-40d9-bcef-f334e5a8eea6)
 
 Q5.    ![image](https://github.com/user-attachments/assets/cf40867a-428b-4179-8043-2df20a9707e6)
+
+![image](https://github.com/user-attachments/assets/f345d8f8-52ba-4f1b-8ed8-bbd165f4d8b7)
