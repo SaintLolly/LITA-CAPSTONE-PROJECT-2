@@ -69,3 +69,67 @@ Q4.    ![image](https://github.com/user-attachments/assets/6ac3ffc8-d66d-4453-b2
 Q5.    ![image](https://github.com/user-attachments/assets/cf40867a-428b-4179-8043-2df20a9707e6)
 
 ![image](https://github.com/user-attachments/assets/f345d8f8-52ba-4f1b-8ed8-bbd165f4d8b7)
+
+
+### The following are the analysis conducted on SQL
+
+Q1 Retrieve the total number of customers from each region.
+
+```SQL
+SELECT Region, COUNT(CustomerID) AS Total_No_of_Customers
+FROM [dbo].[LITA_CUSTOMER.DATA]
+GROUP BY Region
+```
+
+Q2 Find the most popular subscription type by the number of customers.
+
+```SQL
+SELECT SubscriptionType,COUNT(CustomerID)AS NO_Of_Customers
+FROM [dbo].[LITA_CUSTOMER.DATA]
+GROUP BY SubscriptionType
+```
+
+Q3  Find customers who canceled their subscription within 6 months
+
+```SQL
+SELECT CustomerName,Canceled,SubscriptionStart
+FROM [dbo].[LITA_CUSTOMER.DATA]
+WHERE Canceled =0 AND MONTH(SubscriptionStart) <= 6
+```
+OR
+```SQL
+SELECT CustomerName,Canceled,SubscriptionStart
+FROM [dbo].[LITA_CUSTOMER.DATA]
+WHERE Canceled =0 AND MONTH(SubscriptionStart) BETWEEN 1 AND 6
+```
+
+Q4 Calculate the average subscription duration for all customers
+
+```SQL
+SELECT Count(CustomerID) As All_Customers,AVG(DATEDIFF(DAY,SubscriptionStart,SubscriptionEnd)) AS Average_Subscription_Duration
+FROM [dbo].[LITA_CUSTOMER.DATA]
+WHERE SubscriptionEnd IS NOT NULL
+```
+
+Q5  Find customers with subscriptions longer than 12 months.DATEDIFF
+
+```SQL
+SELECT CustomerName,SubscriptionType,SubscriptionStart,SubscriptionEnd
+FROM [dbo].[LITA_CUSTOMER.DATA]
+WHERE DATEDIFF(MONTH,SubscriptionStart,SubscriptionEnd) >=12
+```
+
+Q6  calculate total revenue by subscription type
+
+```SQL
+SELECT SubscriptionType,SUM(Revenue) AS Total_Revenue
+FROM [dbo].[LITA_CUSTOMER.DATA]
+GROUP BY SubscriptionType
+```
+
+Q7 Find the top 3 regions by subscription cancellations.
+
+```SQL
+SELECT TOP 3 Region,Canceled
+FROM [dbo].[LITA_CUSTOMER.DATA]
+```
