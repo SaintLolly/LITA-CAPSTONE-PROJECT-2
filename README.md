@@ -131,7 +131,8 @@ FROM [dbo].[LITA_CUSTOMER.DATA]
 WHERE DATEDIFF(MONTH,SubscriptionStart,SubscriptionEnd) >=12
 ```
 
-![image](https://github.com/user-attachments/assets/a770e723-49f0-4520-86cd-c5d82fc0e27e)
+![image](https://github.com/user-attachments/assets/a770e723-49f0-4520-86cd-c5d82fc0e27e)       ![image](https://github.com/user-attachments/assets/331961e8-b78b-41c1-8cdb-ca8c5ceaa58c)
+
 
 
 Q6  calculate total revenue by subscription type
