@@ -133,3 +133,23 @@ Q7 Find the top 3 regions by subscription cancellations.
 SELECT TOP 3 Region,Canceled
 FROM [dbo].[LITA_CUSTOMER.DATA]
 ```
+
+Q8  Find the total number of active and canceled subscriptions.
+
+```SQL
+SELECT canceled, SUM(Active_subscription) AS Number_of_Active_Sub
+FROM [dbo].[LITA_CUSTOMER.DATA]
+GROUP BY canceled
+```
+
+```SQL
+SELECT canceled, SUM(Non_Active_subscription) AS Number_of_nonActive_Sub
+FROM [dbo].[LITA_CUSTOMER.DATA]
+GROUP BY canceled
+```
+
+
+
+
+
+
