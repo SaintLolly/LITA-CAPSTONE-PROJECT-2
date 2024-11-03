@@ -109,7 +109,8 @@ FROM [dbo].[LITA_CUSTOMER.DATA]
 WHERE Canceled =0 AND MONTH(SubscriptionStart) BETWEEN 1 AND 6
 ```
 
-![image](https://github.com/user-attachments/assets/49bd54ce-62ce-461a-bb68-b8cbcb8901f2)            ![image](https://github.com/user-attachments/assets/5f625958-c567-475f-b676-28f56d2ba4ff)
+![image](https://github.com/user-attachments/assets/49bd54ce-62ce-461a-bb68-b8cbcb8901f2)            ![image](https://github.com/user-attachments/assets/5f625958-c567-475f-b676-28f56d2ba4ff)          ![image](https://github.com/user-attachments/assets/4ee8dd9a-49a0-466c-a233-652c17cc5ec0)
+
 
 
 
