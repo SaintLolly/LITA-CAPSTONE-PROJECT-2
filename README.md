@@ -112,8 +112,6 @@ WHERE Canceled =0 AND MONTH(SubscriptionStart) BETWEEN 1 AND 6
 ![image](https://github.com/user-attachments/assets/49bd54ce-62ce-461a-bb68-b8cbcb8901f2)            ![image](https://github.com/user-attachments/assets/5f625958-c567-475f-b676-28f56d2ba4ff)          ![image](https://github.com/user-attachments/assets/4ee8dd9a-49a0-466c-a233-652c17cc5ec0)
 
 
-
-
 Q4 Calculate the average subscription duration for all customers
 
 ```SQL
@@ -121,6 +119,9 @@ SELECT Count(CustomerID) As All_Customers,AVG(DATEDIFF(DAY,SubscriptionStart,Sub
 FROM [dbo].[LITA_CUSTOMER.DATA]
 WHERE SubscriptionEnd IS NOT NULL
 ```
+
+![image](https://github.com/user-attachments/assets/f71a1801-c852-4240-857f-31e60d512eb2)
+
 
 Q5  Find customers with subscriptions longer than 12 months.DATEDIFF
 
