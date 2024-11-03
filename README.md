@@ -8,7 +8,7 @@ PROJECT OVERVIEW: In this project, I am tasked with performing an analysis on Cu
 - SQL
 
 ### TOOLS USED IN THIS PROJECT
-- Microsoft Excel [Download Here].(https://wwww.microsoft.com)
+- Microsoft Excel [Download Here].(https://www.microsoft.com)
 1. for Data Cleaning
 2. Analysis
 3. Visualization
@@ -50,4 +50,5 @@ This involves the exploring of the data to answer some questions about the data.
 ### DATA ANALYSIS
 This is where I include some line of codes, queries or some of the DAX expressions to answer the questions above. The following analysis were done in Excel:
 
-Q1. 
+Q1.    ![image](https://github.com/user-attachments/assets/c63cd7be-4337-4741-99de-9116a9ceb048)
+
