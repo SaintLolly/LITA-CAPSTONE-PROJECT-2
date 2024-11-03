@@ -92,6 +92,9 @@ FROM [dbo].[LITA_CUSTOMER.DATA]
 GROUP BY SubscriptionType
 ```
 
+![image](https://github.com/user-attachments/assets/eb1796e5-d785-4adb-a8b5-879646a64c2f)
+
+
 Q3  Find customers who canceled their subscription within 6 months
 
 ```SQL
