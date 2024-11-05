@@ -1,6 +1,23 @@
 # LITA-CAPSTONE-PROJECT-2
 
 ## PROJECT TITLE: ANALYSIS ON CUSTOMER SEGMENTATION FOR A SUBSCRIPTION SERVICE
+
+[Project Overview](#project-overview)
+
+[Data Sources](#data-sources)
+
+[Tools Used](#tools-used-in-this-project)
+
+[Data Collected](#data-collected)
+
+[Data Cleaning and Preparations](#data-cleaning-and-preparations)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Data Analysis](#data-analysis)
+
+[Inference](#inference)
+
 PROJECT OVERVIEW: In this project, I am tasked with performing an analysis on Customer Segmentation for a Subscription Service. I will be exploring a customer data to uncover and understand patterns and trends such as average subscription duration and identifying the most popular subscription type. The focus of this project is to produce an interactive and interesting Power BI dashboard that highlights these findings.
 
 ### DATA SOURCE
