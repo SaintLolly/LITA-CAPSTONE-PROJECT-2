@@ -212,6 +212,24 @@ Basic Subscription is the top performer, contributing about half of the total re
 Further analysis of the pricing structure, user demographics, and feature set for each subscription type would be beneficial for understanding why the Basic plan is dominant and how to boost the other tiers.
 By focusing on understanding customer preferences and ensuring clear differentiation between the subscription types, there is a potential to increase revenue across all tiers.
 
+#### Analysis on Subscription Type by Revenue and Region
+- Basic Subscription: This is the only subscription type recorded in both the East and North regions, with the number of subscribers being; East: 16,958,763 and North: 16,817,972. The Basic subscription does not appear in the South or West regions.
+- Premium Subscription: The South region has a recorded subscription for the Premium plan; South: 16,899,064.
+The Premium plan is not present in the East, North, or West regions.
+- Standard Subscription: The West region has a recorded subscription for the Standard plan; West: 16,864,376. The Standard plan is not recorded in the East, North, or South regions.
+- There is a notable lack of variety in subscription types across different regions: The East and North regions only have the Basic subscription, while the South and West regions have their own unique subscription types (Premium in the South and Standard in the West).
+- Subscription Type Concentration: The Basic subscription is more prevalent in the East and North regions, while Premium and Standard are each concentrated in only one region.
+- Regional Total Comparisons: The subscription numbers across the regions are relatively close to one another:
+
+East: 16,958,763 (Basic)
+North: 16,817,972 (Basic)
+South: 16,899,064 (Premium)
+West: 16,864,376 (Standard)
+
+- Conclusion:
+This data presents a snapshot of regional subscription distribution, showing how Basic, Premium, and Standard subscription types are distributed across the East, North, South, and West regions. There seems to be a significant regional concentration of each subscription type, with Basic being the most widespread, and Premium and Standard being more regionalized. Further analysis could help uncover the reasons behind these trends and how subscription services can adapt or expand in these regions.
+
+
 
 
 
