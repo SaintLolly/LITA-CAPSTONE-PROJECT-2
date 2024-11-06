@@ -194,6 +194,26 @@ GROUP BY canceled
 ![image](https://github.com/user-attachments/assets/be134751-d23a-4bd1-aaae-a949c989c932)
 
 
+### Inference
+
+#### Analysis on Revenue by Subscription Type
+1. Basic Subscription: This subscription type generates the highest revenue, contributing nearly 50% of the total revenue. With a total of $33.77 million, it is the dominant subscription type and appears to have a large user base or higher pricing, or both.
+2. Premium and Standard Subscriptions: Both Premium and Standard subscriptions generate similar revenue, contributing around 25% each. The Premium subscription generates $16.9 million, while Standard brings in $16.86 million. This suggests that the two might be priced similarly or have comparable user adoption rates.
+
+#### Insights and Recommendations
+- Dominance of Basic Subscription: The Basic subscription type significantly outperforms the other two types in terms of revenue. If this is a result of a larger user base or higher pricing, it may be worthwhile to analyze how customers are segmented between Basic, Premium, and Standard subscriptions. Additionally, if there’s an opportunity to upsell Basic users to Premium, this could further increase revenue from this segment.
+
+- Premium vs. Standard Subscriptions: The Premium and Standard subscriptions are generating almost identical revenue, despite having different names and potentially different features. A deeper look into the feature set and pricing structure for these two tiers might reveal whether they overlap too much, or whether a price adjustment or better differentiation could boost performance.
+
+- Potential for Growth in Premium/Standard Tiers: Given that the Basic tier is generating nearly double the revenue of Premium and Standard combined, there could be room for targeted marketing or promotions aimed at increasing the adoption of the Premium and Standard subscriptions. Consider offering trial periods, enhanced features, or discounts for users on the Basic plan to encourage them to upgrade.
+
+#### Conclusion
+Basic Subscription is the top performer, contributing about half of the total revenue. Premium and Standard subscriptions contribute equally but significantly less in comparison to the Basic tier.
+Further analysis of the pricing structure, user demographics, and feature set for each subscription type would be beneficial for understanding why the Basic plan is dominant and how to boost the other tiers.
+By focusing on understanding customer preferences and ensuring clear differentiation between the subscription types, there is a potential to increase revenue across all tiers.
+
+
+
 
 
 
