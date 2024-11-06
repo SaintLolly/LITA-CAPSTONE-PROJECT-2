@@ -189,6 +189,12 @@ GROUP BY canceled
 ![image](https://github.com/user-attachments/assets/6c7dd387-1e8d-4bde-993b-d6f1eea89a47)
 
 
+### These are the visualization done on Power BI
+
+![image](https://github.com/user-attachments/assets/be134751-d23a-4bd1-aaae-a949c989c932)
+
+
+
 
 
 
