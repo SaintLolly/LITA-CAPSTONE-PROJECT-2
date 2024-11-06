@@ -221,9 +221,9 @@ The Premium plan is not present in the East, North, or West regions.
 - Subscription Type Concentration: The Basic subscription is more prevalent in the East and North regions, while Premium and Standard are each concentrated in only one region.
 - Regional Total Comparisons: The subscription numbers across the regions are relatively close to one another:
 
-East: 16,958,763 (Basic)
-North: 16,817,972 (Basic)
-South: 16,899,064 (Premium)
+East: 16,958,763 (Basic), 
+North: 16,817,972 (Basic), 
+South: 16,899,064 (Premium), 
 West: 16,864,376 (Standard)
 
 - Conclusion:
